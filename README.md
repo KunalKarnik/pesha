@@ -11,3 +11,6 @@ TO Use:
 <br>
 
 Navigate to a job page on indeed.com; click on the extension and "Add JOB!" - Displays the info in the console log currently. TODO: google cloud storage database support and more Parsing
+
+
+Unfortunately we found an alternative that had already been implemented : https://huntr.co/
