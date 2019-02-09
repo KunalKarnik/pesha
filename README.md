@@ -10,4 +10,4 @@ TO Use:
 5> Done! <br>
 <br>
 
-Navigate to a job page on indeed.com; click on the extension and "Add JOB!" - Displays the info in the console log currently. TODO: backend support
+Navigate to a job page on indeed.com; click on the extension and "Add JOB!" - Displays the info in the console log currently. TODO: google cloud storage database support
