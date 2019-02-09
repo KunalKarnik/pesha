@@ -1,0 +1,15 @@
+{
+	"name": "JobBoard",
+	"version": "1.0",
+	"description": "Build an extension to store all jobs you have applied to...",
+	"permissions": ["*://*/*", "<all_urls>", "activeTab", "storage"],
+	"background": {
+	  "scripts": ["background.js"],
+	  "persistent": false
+	},
+	"browser_action": {
+	    "default_title": "Test",
+	    "default_popup": "index.html"
+	},
+	"manifest_version": 2
+}
